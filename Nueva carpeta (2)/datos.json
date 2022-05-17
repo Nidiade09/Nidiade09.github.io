@@ -1,0 +1,15 @@
+{
+    "Personajes": ["Yuta Okkotsu", "Maki Zenin", "Toge Inumaki", "Gojo Satoru", "Panda", "Suguru Geto", "Kento Nanami"],
+    "Edad": [15, 16, 16, 27, 16, 27, 26, 27 ],
+    "Técnicas/Armas": [
+        {
+            "Yuta Okkotsu": ["Duplicar Tecnicas", "Sanación Inversa", "Katana"],
+            "Maki Zenin": ["Naginata"],
+            "Toge Inumaki": ["Discurso Maldito"],
+            "Gojo Satoru": ["Ritual maldito inverso rojo", "Vacio purpura", "Vacio Infinito", "Seis ojos"],
+            "Panda": ["Tres Nucleos"],
+            "Suguru Geto": ["Manipulación de maldiciones", "Encarnación de Tamamo no Mae", "Manipulación Extrema de Maldiciones: Tornado" ],
+            "Nanami Kento": ["Derrumbe", "Técnica de proporción", "Espada enfundada"]
+        }
+    ]
+}
